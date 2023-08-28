@@ -8,7 +8,7 @@ I inspected the Mars News site using automated browsing and extracted the titles
 I used automated browsing to visit the Mars Temperature Data Site. Once on the site, I inspected the site and scraped the data from the site into a table. I edited the data types for data analysis and performed various queries (how many months are on Mars, how many Martian days' worth of data is there, and the average low temperature by month). Once I performed those tasks, I created the below plots:
 
   *Average Temparature By Month*
-  ![average temp on Mars](URL)
+  ![average temp on Mars](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/avg_temp.png?raw=true)
 
   *Average Temperature - Sorted Coldest to Warmest*
   ![average temperature sorted](URL)
