@@ -2,7 +2,7 @@
 
 **Mars News Scraping**
 I inspected the Mars News site using automated browsing and extracted the titles and preview text of the news articles. I created a dictionary to store that information and stored the dictionary in a Python list. The result looked like this:
-![list of dictionaries](URL)
+![list of dictionaries](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/list%20of%20dictionaries.png?raw=true)
 
 **Mars Weather Data Scraping**
 I used automated browsing to visit the Mars Temperature Data Site. Once on the site, I inspected the site and scraped the data from the site into a table. I edited the data types for data analysis and performed various queries (how many months are on Mars, how many Martian days' worth of data is there, and the average low temperature by month). Once I performed those tasks, I created the below plots:
