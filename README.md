@@ -11,7 +11,7 @@ I used automated browsing to visit the Mars Temperature Data Site. Once on the s
   ![average temp on Mars](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/avg_temp.png?raw=true)
 
   *Average Temperature - Sorted Coldest to Warmest*
-  ![average temperature sorted](URL)
+  ![average temperature sorted](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/temp_sorted.png?raw=true)
 
   *Average Pressure by Month*
   ![average pressure](URL)
