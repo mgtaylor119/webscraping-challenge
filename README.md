@@ -14,7 +14,7 @@ I used automated browsing to visit the Mars Temperature Data Site. Once on the s
   ![average temperature sorted](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/temp_sorted.png?raw=true)
 
   *Average Pressure by Month*
-  ![average pressure](URL)
+  ![average pressure](https://github.com/mgtaylor119/webscraping-challenge/blob/main/images/avg_pressure.png?raw=true)
 
   *Terrestrial Days in a Martian Year*
   ![terrestrial days](URL)
